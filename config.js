@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'root@9aylas',  
-  author: 'Welcom', 
-  tagline: 'n/a',
-  primaryColor: '#3498db', // Required
+  title: 'root@blog',  
+  author: '9aylas', 
+  tagline: 'All about virtual life.',
+  primaryColor: '#83d31b', 
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 3,  
   social: {
     website: 'https://9aylas.netlify.com',
     github: 'https://github.com/9aylas',
