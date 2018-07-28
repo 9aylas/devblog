@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'root@blog',  
+  title: 'r00t@Bl0g ~ ',  
   author: '9aylas', 
   tagline: 'All about virtual life.',
-  primaryColor: '#83d31b', 
+  primaryColor: '#0c0008', 
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 3,  
