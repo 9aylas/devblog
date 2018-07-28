@@ -10,7 +10,7 @@ const Wrapper = styled.div`
 function NotFound() {
   return (
     <Wrapper>
-      <H2><font color=blue>ERR0R 404 dude!.</H2>
+      <H2> ERR0R 404 dude!.</H2>
     </Wrapper>
   );
 }
